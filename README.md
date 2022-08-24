@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=github_dark&hide_border=TRUE"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=prussian&hide_border=TRUE"/>
 
 ## 🐣 Jaewon 🐥<br/>
 
@@ -15,7 +15,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kry1126@naver.com)](mailto:kry1126@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kry11266@gmail.com)](mailto:kry11266@gmail.com)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=compact&theme=github_dark&hide_border=TRUE"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=compact&theme=prussian&hide_border=TRUE"/>
 
 ## 💪 Skills 💪
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
