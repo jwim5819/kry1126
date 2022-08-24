@@ -14,8 +14,7 @@
 
 ---
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=compact&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=&theme=dracula"/>
 
 ## 💪 Skills 💪
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
