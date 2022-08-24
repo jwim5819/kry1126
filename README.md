@@ -8,7 +8,7 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=vue"/>
 
-## 🐣 JAEWON 🐥<br/>
+## 🐣 Jaewon 🐥<br/>
 
 #### Hi👋 I'm currently learning Data Analysis<br/>in Kyungpook universty
 #### 📬 Contacts 📬
