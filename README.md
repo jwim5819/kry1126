@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=vue"/>
 
 ## 🐣 JAEWON 🐥<br/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkry1126&count_bg=%23292828&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kry1126)](https://solved.ac/kry1126)
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=compact&theme=vue"/>
 
 ## 💪 Skills 💪
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
