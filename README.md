@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkry1126&count_bg=%23292828&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kry1126)](https://solved.ac/kry1126)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkry1126&count_bg=%23292828&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kry1126)](https://solved.ac/kry1126)
 
 <div align="center">
 
