@@ -1,10 +1,14 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B5E4F7,100:a82da8&height=200&section=header&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlignY=33&desc=JAEWON's%20Github%20Profile&descAlign=58&descAlignY=53&animation=twinkling) -->
 
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkry1126&count_bg=%23292828&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kry1126)](https://solved.ac/kry1126)
+
 <div align="center">
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=vue"/>
 
-## 🐣 JAEWON 🐥<br/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkry1126&count_bg=%23292828&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kry1126)](https://solved.ac/kry1126)
+## 🐣 JAEWON 🐥<br/>
 
 #### Hi👋 I'm currently learning Data Analysis<br/>in Kyungpook universty
 #### 📬 Contacts 📬
