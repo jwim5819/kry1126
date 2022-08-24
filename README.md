@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B5E4F7,100:a82da8&height=200&section=header&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlignY=33&desc=JAEWON's%20Github%20Profile&descAlign=58&descAlignY=53&animation=twinkling)
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kry1126&show_icons=true&theme=graywhite)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kry1126" align="right">
+
 
 # 💪Skills
 ### Languages & Tools
@@ -14,4 +15,5 @@
 # 📬Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kry1126@naver.com)](mailto:kry1126@naver.com)
 
+</div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:B5E4F7&height=150&section=footer)
