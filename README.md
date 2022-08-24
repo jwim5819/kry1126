@@ -5,10 +5,8 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kry1126&layout=compact&theme=graywhite)
 
 # 💪Skills💪
-### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-FF4154.svg?&style=for-the-badge&logo=R&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-006272.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![R](https://img.shields.io/badge/R-FF4154.svg?&style=for-the-badge&logo=R&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-569A31.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
 
