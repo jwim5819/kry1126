@@ -12,7 +12,7 @@
 
 ## 🐣 Jaewon 🐥<br/>
 
-#### Hi👋 I'm currently learning Data Analysis<br/>in Kyungpook universty
+#### Hi👋
 #### 📬 Contacts 📬
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kry1126@naver.com)](mailto:kry1126@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kry11266@gmail.com)](mailto:kry11266@gmail.com)
